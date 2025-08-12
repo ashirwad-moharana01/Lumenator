@@ -1,0 +1,5 @@
+{
+  "name": "Lumenator: Room Lumen Calculator",
+  "description": "A responsive and accessible web application to calculate the required lumens for a room based on its type and dimensions. It provides lighting fixture suggestions and allows downloading a report.",
+  "requestFramePermissions": []
+}
